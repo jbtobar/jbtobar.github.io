@@ -1,7 +1,8 @@
 # Juan Bernardo Tobar
 
-I built
+### I built
 
-[Moskvant](https://moskvant.com) - an options trading app, and
 
-[MAIA](https://maia.moskvant.com) - a brokerage service on the blockchain.
+
+* [MAIA](https://maia.moskvant.com) - a brokerage on the blockchain
+* [Moskvant](https://moskvant.com) - MAIA's options trading app.
