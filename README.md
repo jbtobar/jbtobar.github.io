@@ -1,5 +1,3 @@
-# Juan Bernardo Tobar
-
 ### I built
 
 
