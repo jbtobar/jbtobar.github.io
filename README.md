@@ -4,6 +4,6 @@
 
 
 
-* [MAIA](https://maia.live) - a brokerage on the blockchain
+* [MAIA](https://maia.live) - an unstoppable interactions platform
 * [Moskvant](https://moskvant.com) - MAIA's options trading app.
 
