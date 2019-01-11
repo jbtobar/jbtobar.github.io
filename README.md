@@ -1,3 +1,4 @@
+<html>
 <head>
 <!-- Primary Meta Tags -->
 <title>Juan Bernardo Tobar - Founder / Architect / CEO at MAIA.live</title>
@@ -18,6 +19,8 @@
 <meta property="twitter:description" content="Own your data, your identity, your money - download MAIA wallet.  - What Netscape did for the Internet, MAIA does for the blockchain - but from your smartphone.">
 <meta property="twitter:image" content="">
 </head>
+</html>
+
 
 # Juan Bernardo Tobar
 
@@ -46,6 +49,8 @@ Own your data, your identity, your money - download MAIA wallet at MAIA.live. "W
 
 ---
 
-# Disclaimer
+
+
+#### Disclaimer
 
 * I have never been involved in any capacity - advisor, team-member, developer - with any ICO related projects apart from Jury.Online.
