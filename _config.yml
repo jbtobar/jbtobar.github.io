@@ -1,1 +1,8 @@
+title: Juan Bernardo Tobar - Founder / Architect / CEO at MAIA.live
+description: Own your data, your identity, your money - download MAIA wallet.  - What Netscape did for the Internet, MAIA does for the blockchain - but from your smartphone.
+
+
+plugins:
+  - jekyll-seo-tag
+
 theme: minima
