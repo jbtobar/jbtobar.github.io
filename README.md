@@ -12,4 +12,4 @@ Own your data, your identity, your money - download MAIA wallet at MAIA.live. "W
 ### Past Work
 
 * Developed smart contracts and blockchain infrastructure for Jury.Online from July-October 2018.
-* Mosvkant - Developed Options trading platform with blockchain-as-a-backend
+* Moskvant - Developed Options trading platform with blockchain-as-a-backend
