@@ -44,8 +44,12 @@ Own your data, your identity, your money - download MAIA wallet at MAIA.live. "W
 
 ### Profile
 
-* (github.com/jbtobar)[https://github.com/jbtobar]
-* jbtobar.io <at> google <dot> com
+* (jbtobar at github)[https://github.com/jbtobar]
+* jbtobar.io AT maia DOT live
+
+---
+
+---
 
 ---
 
