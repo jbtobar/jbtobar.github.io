@@ -33,15 +33,13 @@ Blockchain Engineer and Founder of ADOM Inc.
 
 ### ADOM Inc.
 
-ADOM Inc. is a company that leverages blockchain technology. The company features 3 products: MAIA-X, Daployer, and Dalia. With MAIA-X, the company seeks to provide the tools for low-cost money-transfers and remittances between the United States and Latin America.
-
-I am the founder.
+ADOM Inc. is a technology company focused on bringing blockchain technology to the masses by building simple and intuitive products. The company features 3 products: MAIA-X, Daployer, and Dalia. The ADOM Inc. ecosystem - featuring the MAIA-X mobile app - allows anyone with a smartphone to have full financial access and connection to smart contracts and blockchain technology. This is very impacting as enables low-cost money services such as international money transfers, debt, credit, among others. ADOM Inc. is my creation, from the idea to the incorporation to the design and coding of all its products - I am the founder and owner - it is a C-Corp incorporated in 2018 in Delaware. 
 
 More information at https://adom.tech
 
 ### MAIA-X
 
-A mobile app designed for intuitive and mass consumption that allows anyone with a smartphone to interact with the blockchain. It is designed as a chat+wallet app, allowing users to have conversations surrounding the smart contracts and transactions they interact with. The immediate implications of this include low-cost international money transfers, low cost POS activity, low-cost debt and other financial services.
+A mobile app designed for mass consumption that allows anyone with a smartphone to interact with the blockchain. It is designed as a chat+wallet app, allowing users to have conversations surrounding the smart contracts and transactions they interact with. The immediate implications of this include low-cost international money transfers, low cost POS activity, low-cost debt and other financial services.
 
 MAIA-X has undergone beta testing and is in review by the Apple App Store. Upon approval it would be the first of its kind.
 
