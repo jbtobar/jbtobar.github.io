@@ -24,6 +24,11 @@
 
 # Juan Bernardo Tobar
 
+
+Blockchain Engineer and Founder of ADOM Inc.
+
+
+
 ## Work
 
 ### ADOM Inc.
