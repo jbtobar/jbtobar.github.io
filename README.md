@@ -27,6 +27,8 @@
 
 Bringing to life products that leverage blockchain technology to make peoples lives easier - Blockchain Engineer and Founder at ADOM Inc.
 
+[https://testflight.apple.com/join/7T4BxfEm](MAIA-X - beta is out on TestFlight!)
+
 
 
 ## Work
@@ -35,7 +37,7 @@ Bringing to life products that leverage blockchain technology to make peoples li
 
 ADOM Inc. is a technology company focused on bringing blockchain technology to the masses by building simple and intuitive products. The company features 3 products: MAIA-X, Daployer, and Dalia. The ADOM Inc. ecosystem - featuring the MAIA-X mobile app - allows anyone with a smartphone to have full financial access and connection to smart contracts and blockchain technology. This is very impacting as enables low-cost money services such as international money transfers, debt, credit, among others. ADOM Inc. is my creation, from the idea to the incorporation to the design and coding of all its products - I am the founder and owner - it is a C-Corp incorporated in 2018 in Delaware. 
 
-More information at https://adom.tech
+More information at [https://adom.tech](adom.tech)
 
 ### MAIA-X
 
@@ -45,7 +47,8 @@ MAIA-X has undergone beta testing and is in review by the Apple App Store. Upon 
 
 I built this app from idea to the design to the code.
 
-More information at https://maia.live
+More information at [https://maia.live](maia.live)
+[https://testflight.apple.com/join/7T4BxfEm](MAIA-X - beta is out on TestFlight!)
 
 
 ### Daployer
@@ -56,7 +59,7 @@ In my previous work developing smart contracts for the firm Krypton it became cl
 
 I built this tool it is available open-source at npm.org
 
-More information at https://daployer.maia.live/api/ui
+More information at [https://daployer.maia.live/api/ui](daployer.maia.live/api/ui)
 
 
 ### DALIA
@@ -69,7 +72,7 @@ The DALIA alternative means you can transact for free, but it is not decentraliz
 
 I setup, implemented, and now run this version of the blockchain.
 
-It is accessible via RPC at https://blocks.maia.live/
+It is accessible via RPC at [https://blocks.maia.live/](blocks.maia.live)
 
 
 ### Krypton
@@ -85,51 +88,24 @@ I was given the technical specifications and I built the contracts.
 
 ## Academia
 
-### B.A - University of Rochester
+### B.A - University of Rochester - 2014
 
 I graduated with a B.A from the University of Rochester in NY with a double major in Philosophy and Economics. My achievements there include highest distinction in philosophy, an honors thesis in Economics, and my work as the Head of the Production Department at WRUR 88.5.
 
-### M.Sc in Software Engineering - HSE
+Honors Thesis: A mathematical model of the petrodollar and Russia's alternative
+Highest Distinction in Philosophy
+
+### M.Sc in Software Engineering - HSE - 2018
 
 I recieved a Master's in Science diploma from Higher School of Economics in Moscow under a full-ride scholarship by one of the leading universities in computer science. My thesis focusing on blockchain technology was awarded the first place upon graduation.
 
-## Scholarly Work and Articles
+Full scholarship
+Thesis: An Options Trading Platform with a Blockchain Backend
 
-### "A Mathematical Model of the Petrodollar"
+# Links
 
-For my honors thesis in Economics at the University of Rochester I published a paper detailing a mathematical model that explains the money-transmission mechanisms between energy importers and exporters and the effect certain agreements have on the outcomes of each party.
-
-### "An Options Trading Platform with a Blockchain Backend"
-
-I published the design and implementation of an options trading platform that leverages blockchain technology via innovative smart contracts. It was awarded the top grade of all software engineering thesis submitted.
-
-### How to build a MoneyBox
-
-I wrote a widely circulated article that explains how one can - with almost zero computer knowledge - write a smart contract, deploy it, and interact with it in the blockchain. This tutorial was one of a kind and I was asked by the media company CoinMonks if they could publish it under their publication.
-
-
-## Achievements
-
-### 120k IBM Award
-
-IBM invited me to their offices in Ecuador to discuss my work in blockchain. They need to implement blockchain projects in Ecuador but they don't have anyone capacitated to do so which means they have to fly in engineers from overseas. Although I agreed to consult with them on projects - they understood I am building ADOM Inc. and they were very interested.
-
-They awarded be 120k to use with my project as soon as I begin commercialization.
-
-### Full-ride scholarship for M.Sc
-
-I was awarded a full-ride scholarship and stipend to attend HSE University to recieve a Master's in Science in Software Engineering
-
-### University of Rochester Highest Distinction in Philosophy
-
-I graduated from the University of Rochester with Highest Distinction from the Philosophy department.
-
-### CoinList Hackathon Award
-
-In the biggest ever coding competition hosted by the tech companies CoinList and 0x, I was awarded a prize for building a mobile app that allows you to trade stocks on the blockchain.
-
-### National Honor Society
-
-I was inducted into the United States National Honor Society in 2007.
+ - [https://github.com/jbtobar](github.com/jbtobar)
+ - [https://adom.tech](adom.tech)
+ - [https://maia.live](maia.live)
 
 
