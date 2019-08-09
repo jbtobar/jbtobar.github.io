@@ -27,7 +27,7 @@
 
 Bringing to life products that leverage blockchain technology to make peoples lives easier - Blockchain Engineer and Founder at ADOM Inc.
 
-[https://testflight.apple.com/join/7T4BxfEm](MAIA-X - beta is out on TestFlight!)
+[MAIA-X - beta is out on TestFlight!](https://testflight.apple.com/join/7T4BxfEm)
 
 
 
@@ -37,7 +37,7 @@ Bringing to life products that leverage blockchain technology to make peoples li
 
 ADOM Inc. is a technology company focused on bringing blockchain technology to the masses by building simple and intuitive products. The company features 3 products: MAIA-X, Daployer, and Dalia. The ADOM Inc. ecosystem - featuring the MAIA-X mobile app - allows anyone with a smartphone to have full financial access and connection to smart contracts and blockchain technology. This is very impacting as enables low-cost money services such as international money transfers, debt, credit, among others. ADOM Inc. is my creation, from the idea to the incorporation to the design and coding of all its products - I am the founder and owner - it is a C-Corp incorporated in 2018 in Delaware. 
 
-More information at [https://adom.tech](adom.tech)
+More information at [adom.tech](https://adom.tech)
 
 ### MAIA-X
 
@@ -47,8 +47,10 @@ MAIA-X has undergone beta testing and is in review by the Apple App Store. Upon 
 
 I built this app from idea to the design to the code.
 
-More information at [https://maia.live](maia.live)
-[https://testflight.apple.com/join/7T4BxfEm](MAIA-X - beta is out on TestFlight!)
+More information at [maia.live](https://maia.live)
+
+
+[MAIA-X - beta is out on TestFlight!](https://testflight.apple.com/join/7T4BxfEm)
 
 
 ### Daployer
@@ -59,7 +61,7 @@ In my previous work developing smart contracts for the firm Krypton it became cl
 
 I built this tool it is available open-source at npm.org
 
-More information at [https://daployer.maia.live/api/ui](daployer.maia.live/api/ui)
+More information at [daployer.maia.live/api/ui](https://daployer.maia.live/api/ui)
 
 
 ### DALIA
@@ -72,7 +74,7 @@ The DALIA alternative means you can transact for free, but it is not decentraliz
 
 I setup, implemented, and now run this version of the blockchain.
 
-It is accessible via RPC at [https://blocks.maia.live/](blocks.maia.live)
+It is accessible via RPC at [blocks.maia.live](https://blocks.maia.live/)
 
 
 ### Krypton
@@ -104,8 +106,9 @@ Thesis: An Options Trading Platform with a Blockchain Backend
 
 # Links
 
- - [https://github.com/jbtobar](github.com/jbtobar)
- - [https://adom.tech](adom.tech)
- - [https://maia.live](maia.live)
+ - [github.com/jbtobar](https://github.com/jbtobar)
+ - [adom.tech](https://adom.tech)
+ - [maia.live](https://maia.live)
+ - [MAIA-X - beta is out on TestFlight!](https://testflight.apple.com/join/7T4BxfEm)
 
 
