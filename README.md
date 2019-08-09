@@ -74,7 +74,7 @@ The DALIA alternative means you can transact for free, but it is not decentraliz
 
 I setup, implemented, and now run this version of the blockchain.
 
-It is accessible via RPC at [blocks.maia.live](https://blocks.maia.live/)
+It is accessible via RPC at [blocks.maia.live](http://blocks.maia.live/)
 
 
 ### Krypton
