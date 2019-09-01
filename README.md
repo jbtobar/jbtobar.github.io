@@ -24,14 +24,40 @@
 
 # Juan Bernardo Tobar
 
+###### Full-Stack Software Engineer - Blockchain Technology. 
+###### Founder @ ADOM Inc.
 
-Bringing to life products that leverage blockchain technology to make peoples lives easier - Blockchain Engineer and Founder at ADOM Inc.
+> B.A Philosophy and Economics, University of Rochester
+> 
+> M.Sc Software and Systems Engineering, HSE
 
-[MAIA-X - beta is out on TestFlight!](https://testflight.apple.com/join/7T4BxfEm)
+I am the founder of ADOM Inc. - a technology company. We leverage blockchain technology to make people's lives easier. 
+
+I created and developed the first app that allows you to paste and interact with blockchain smart contracts directly on a chat conversation - MAIA-X - an app that allows anyone in the world with a smartphone and internet connection to have full financial access. It is designed to be intuitive so as to be used by any person, and lightweight so that it can be accessible for any smartphone.
+
+I invented the MAIA Blockchain Card - a physical card that can be used in replacement of Debit/Credit/Bank Cards for money transfer, and in replacement of identification cards. It is connected to the blockchain via the MAIA-X app. This means merchants can begin accepting digital payments simply by downloading MAIA-X. This card can also revolutionize the ticketing and identification industry as a user can use it to authenticate with any smart contract in the blockchain.
+
+Combined they form the first-ever Blockchain Mobile Toolkit. A Toolkit with the potential of harnessing the power of blockchain technology to revolutionize the way we interact with each other around the world.
+
+I believe in what I call the "New Financial Paradigm". It is what happens to finance once blockchain technology becomes mainstream. It parallels what happened to information when the internet became mainstream. I aim to help build the new financial paradigm with my products.
+
+
+Watch "ADOM Inc. Presents MAIA" - the trailer for the MAIA Blockchain Toolkit here: [adom.tech/trailer](https://adom.tech/trailer)
+
+Download MAIA-X from iOS TestFlight here: [adom.tech](https://adom.tech)
+
+(You may request a MAIA Blockchain Card via the app)
+
+I am currently seeking funding.
+
+For funding, media, speaking and other inquires email [jb @ adom . tech](mailto:jb@adom.tech)
+
+---
+---
 
 
 
-## Work
+## Other Projects
 
 ### ADOM Inc.
 
@@ -77,11 +103,9 @@ I setup, implemented, and now run this version of the blockchain.
 It is accessible via RPC at [blocks.maia.live](http://blocks.maia.live/)
 
 
-### Krypton
+### Fundraising Contracts with Digital Arbitration
 
-Krypton is one of the leading incubator firms focusing on blockchain technology. 
-
-For them I designed smart contracts that allow a project to raise money in stages and resolve disputes between investors and the company via a process of digital arbitration.
+I designed and built smart contracts that allow a project to raise money in stages and resolve disputes between investors and the company via a process of digital arbitration.
 
 This means that an entrepreneur anywhere in the world - a coffeemaker in Ecuador - could raise money from anyone else in the world to open another coffee shop, and the lenders would be protected because the money would only be given to the coffeemaker if certain criteria is met. Any lender can dispute whether the criteria is met and a pool or arbiters capacitated to resolve would be chosen at random to vote.
 
@@ -92,14 +116,14 @@ I was given the technical specifications and I built the contracts.
 
 ### B.A - University of Rochester - 2014
 
-I graduated with a B.A from the University of Rochester in NY with a double major in Philosophy and Economics. My achievements there include highest distinction in philosophy, an honors thesis in Economics, and my work as the Head of the Production Department at WRUR 88.5.
+I graduated with a B.A from the University of Rochester in NY with a double major in Philosophy and Economics. Achievements  include highest distinction in philosophy, an honors thesis in Economics, and my work as the Head of the Production Department at WRUR 88.5.
 
 Honors Thesis: A mathematical model of the petrodollar and Russia's alternative
-Highest Distinction in Philosophy
+
 
 ### M.Sc in Software Engineering - HSE - 2018
 
-I recieved a Master's in Science diploma from Higher School of Economics in Moscow under a full-ride scholarship by one of the leading universities in computer science. My thesis focusing on blockchain technology was awarded the first place upon graduation.
+I recieved a Master's in Science diploma from Higher School of Economics in Moscow under a scholarship by one of the leading universities in computer science. My thesis focusing on blockchain technology was awarded the first place upon graduation.
 
 Full scholarship
 Thesis: An Options Trading Platform with a Blockchain Backend
@@ -108,7 +132,7 @@ Thesis: An Options Trading Platform with a Blockchain Backend
 
  - [github.com/jbtobar](https://github.com/jbtobar)
  - [adom.tech](https://adom.tech)
- - [maia.live](https://maia.live)
- - [MAIA-X - beta is out on TestFlight!](https://testflight.apple.com/join/7T4BxfEm)
+ - [MAIA-X - iOS Beta](https://testflight.apple.com/join/7T4BxfEm)
+ - [ADOM Inc. Introduces MAIA-X Trailer](https://adom.tech/trailer)
 
 
