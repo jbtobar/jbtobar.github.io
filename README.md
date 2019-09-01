@@ -53,11 +53,10 @@ I am currently seeking funding.
 For funding, media, speaking and other inquires email [jb @ adom . tech](mailto:jb@adom.tech)
 
 ---
----
 
 
 
-## Other Projects
+## Projects
 
 ### ADOM Inc.
 
