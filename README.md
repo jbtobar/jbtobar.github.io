@@ -24,12 +24,15 @@
 
 # Juan Bernardo Tobar
 
-###### Full-Stack Software Engineer - Blockchain Technology. 
-###### Founder @ ADOM Inc.
+> Full-Stack Software Engineer - Blockchain Technology. 
+>
+> Founder @ ADOM Inc.
 
-> B.A Philosophy and Economics, University of Rochester
-> 
-> M.Sc Software and Systems Engineering, HSE
+
+###### B.A Philosophy and Economics, University of Rochester
+###### M.Sc Software and Systems Engineering, HSE
+
+---
 
 I am the founder of ADOM Inc. - a technology company. We leverage blockchain technology to make people's lives easier. 
 
