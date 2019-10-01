@@ -1,8 +1,11 @@
-title: Juan Bernardo Tobar - Blockchain Engineer and Founder of ADOM Inc.
-description: Own your data, your identity, your money - download MAIA wallet.  - What Netscape did for the Internet, MAIA does for the blockchain - but from your smartphone.
+title: Juan Bernardo Tobar.
+description: Inventor, blockchain engineer, founder of ADOM Inc.
 
 
 plugins:
   - jekyll-seo-tag
 
 theme: minima
+
+markdown:   kramdown
+style:  kjhealy
