@@ -20,6 +20,9 @@
 <meta property="twitter:image" content="">
 </head>
 </html>
+
+
+
 # Juan Bernardo Tobar
 
 Inventor, blockchain engineer, founder of ADOM Inc.
