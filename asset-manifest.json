@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.03dabfa5.chunk.css",
-    "main.js": "/static/js/main.5ca9db0c.chunk.js",
-    "main.js.map": "/static/js/main.5ca9db0c.chunk.js.map",
+    "main.css": "/static/css/main.b7fe982c.chunk.css",
+    "main.js": "/static/js/main.d6707ef9.chunk.js",
+    "main.js.map": "/static/js/main.d6707ef9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6cd33ef8.js",
     "runtime-main.js.map": "/static/js/runtime-main.6cd33ef8.js.map",
     "static/js/2.a97e4aa6.chunk.js": "/static/js/2.a97e4aa6.chunk.js",
     "static/js/2.a97e4aa6.chunk.js.map": "/static/js/2.a97e4aa6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7c0da73a34c83c37dc53058920e825e5.js": "/precache-manifest.7c0da73a34c83c37dc53058920e825e5.js",
+    "precache-manifest.c9a3c2a8c0514524755fd438135fb23d.js": "/precache-manifest.c9a3c2a8c0514524755fd438135fb23d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.03dabfa5.chunk.css.map": "/static/css/main.03dabfa5.chunk.css.map",
+    "static/css/main.b7fe982c.chunk.css.map": "/static/css/main.b7fe982c.chunk.css.map",
     "static/media/AppTxSent.png": "/static/media/AppTxSent.92098334.png",
     "static/media/FLYER_V1.png": "/static/media/FLYER_V1.934e3e05.png",
     "static/media/MAIA_LOGO.png": "/static/media/MAIA_LOGO.b11f3352.png",
@@ -42,7 +42,7 @@
   "entrypoints": [
     "static/js/runtime-main.6cd33ef8.js",
     "static/js/2.a97e4aa6.chunk.js",
-    "static/css/main.03dabfa5.chunk.css",
-    "static/js/main.5ca9db0c.chunk.js"
+    "static/css/main.b7fe982c.chunk.css",
+    "static/js/main.d6707ef9.chunk.js"
   ]
 }
